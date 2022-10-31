@@ -1,6 +1,4 @@
-# Gunadhi Pratama - 220534003 - 4SIP
-
-A new Flutter project - For Praktik Piranti Bergerak.
+# Muhammad Ridwan Maulana - 191014017 - 4SIP1
 
 ## Getting Started
 
